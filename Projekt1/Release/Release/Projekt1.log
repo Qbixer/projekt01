@@ -1,0 +1,97 @@
+﻿  Source.cpp
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\common/shader.h(63): warning C4101: 'infoLog': unreferenced local variable
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\common/shader.h(62): warning C4101: 'success': unreferenced local variable
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\constants.h(4): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\constants.h(8): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\constants.h(8): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\constants.h(18): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\constants.h(19): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\constants.h(20): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\constants.h(26): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\constants.h(36): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\dungeon.h(64): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\dungeon.h(102): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\dungeon.h(113): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\dungeon.h(114): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\dungeon.h(115): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\dungeon.h(116): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\dungeon.h(486): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\physic.h(12): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\physic.h(41): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\physic.h(84): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\physic.h(123): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\physic.h(142): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\physic.h(273): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\physic.h(310): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\physic.h(347): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\physic.h(384): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\physic.h(420): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\physic.h(456): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\physic.h(493): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\physic.h(530): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\physic.h(930): warning C4806: '^': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\physic.h(930): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\physic.h(941): warning C4806: '^': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\physic.h(941): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\bot.h(42): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\level.h(31): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\text.h(79): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\editor.h(83): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\editor.h(88): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\editor.h(101): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\editor.h(117): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\editor.h(122): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\editor.h(135): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\editor.h(152): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\editor.h(225): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\editor.h(240): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\editor.h(355): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\player.h(71): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\player.h(73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\player.h(77): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\player.h(79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\player.h(83): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\player.h(85): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\player.h(89): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\player.h(91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\player.h(96): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\player.h(97): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\player.h(107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\player.h(149): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\player.h(166): warning C4018: '<': signed/unsigned mismatch
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\player.h(293): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\player.h(303): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Source.cpp(217): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Source.cpp(218): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Source.cpp(364): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Source.cpp(382): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Source.cpp(383): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Source.cpp(410): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Source.cpp(418): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+Source.cpp(423): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(427): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(441): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(443): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Source.cpp(523): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Source.cpp(534): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+Source.cpp(542): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Source.cpp(549): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Source.cpp(685): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Source.cpp(686): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Source.cpp(690): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+Source.cpp(691): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+Source.cpp(693): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Source.cpp(694): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+SOIL.lib(SOIL.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+f:\stare rzeczy\grafika\wersja 2.1\grafika\projekt1\release\physic.h(883): warning C4715: 'wall_collision': not all control paths return a value
+  All 2240 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'F:\Stare rzeczy\Grafika\Wersja 2.1\grafika\Projekt1\Release\Release\vc110.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'F:\Stare rzeczy\Grafika\Wersja 2.1\grafika\Projekt1\Release\Release\vc110.pdb'; linking object as if no debug info
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'F:\Stare rzeczy\Grafika\Wersja 2.1\grafika\Projekt1\Release\Release\vc110.pdb'; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'F:\Stare rzeczy\Grafika\Wersja 2.1\grafika\Projekt1\Release\Release\vc110.pdb'; linking object as if no debug info
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'F:\Stare rzeczy\Grafika\Wersja 2.1\grafika\Projekt1\Release\Release\vc120.pdb'; linking object as if no debug info
+  Projekt1.vcxproj -> F:\Stare rzeczy\Grafika\Wersja 2.1\grafika\Projekt1\Release\Release\Projekt1.exe

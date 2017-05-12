@@ -1,0 +1,79 @@
+﻿  Source.cpp
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\common\shader.h(63): warning C4101: 'infoLog': unreferenced local variable
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\common\shader.h(62): warning C4101: 'success': unreferenced local variable
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\constants.h(4): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\constants.h(8): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\constants.h(8): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\constants.h(18): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\constants.h(19): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\constants.h(20): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\constants.h(26): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\constants.h(32): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\dungeon.h(64): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\dungeon.h(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\dungeon.h(113): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\dungeon.h(114): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\dungeon.h(115): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\dungeon.h(116): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\dungeon.h(486): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\physic.h(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\physic.h(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\physic.h(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\physic.h(123): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\physic.h(252): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\physic.h(289): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\physic.h(326): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\physic.h(363): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\physic.h(399): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\physic.h(435): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\physic.h(472): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\physic.h(509): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\physic.h(909): warning C4806: '^': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\physic.h(909): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\physic.h(920): warning C4806: '^': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\physic.h(920): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\bot.h(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\level.h(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\text.h(79): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\editor.h(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\editor.h(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\editor.h(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\editor.h(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\editor.h(122): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\editor.h(135): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\editor.h(152): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\editor.h(225): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\editor.h(240): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\editor.h(355): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\player.h(71): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\player.h(73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\player.h(77): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\player.h(79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\player.h(83): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\player.h(85): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\player.h(89): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\player.h(91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\player.h(96): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\player.h(97): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\player.h(107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\player.h(149): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\player.h(166): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\player.h(293): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\player.h(303): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\source.cpp(222): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\source.cpp(223): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\source.cpp(378): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\source.cpp(383): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\source.cpp(387): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\source.cpp(401): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\source.cpp(403): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\source.cpp(483): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\source.cpp(494): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\source.cpp(635): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\source.cpp(636): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\source.cpp(640): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\source.cpp(641): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\source.cpp(643): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\source.cpp(644): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kuba\desktop\wersja 1.6.5\grafika\projekt1\projekt1\physic.h(862): warning C4715: 'wall_collision': not all control paths return a value
+  Projekt1.vcxproj -> C:\Users\Kuba\Desktop\Wersja 1.6.5\grafika\Projekt1\Debug\Projekt1.exe

@@ -1,0 +1,56 @@
+newmtl statek:Material_001
+illum 4
+Kd 0.49 0.49 0.49
+Ka 0.05 0.05 0.05
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 94.12
+newmtl statek:Material_003
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.02 0.02 0.02
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.01 0.01 0.01
+Ns 94.12
+newmtl statek:Material_005
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.05 0.05 0.05
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 94.12
+newmtl statek:lights
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 94.12
+newmtl statek:observation_window
+illum 4
+Kd 0.03 0.03 0.03
+Ka 1.00 1.00 1.00
+Tf 0.40 0.40 0.40
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 94.12
+newmtl statek:stripes
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.04 0.04 0.04
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.01 0.01 0.01
+Ns 94.12
+newmtl statek:table
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 94.12
