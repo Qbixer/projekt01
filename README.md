@@ -4,7 +4,7 @@ Działająca aplikacja (system Windows):
 https://drive.google.com/open?id=0B29hGzXR4hz0RWV0RE1oTS02Ykk
 
 Ciekawsze rzeczy z tego projektu to:
-Projekt1/Projekt1/bot.h
+Projekt1/Projekt1/bot.h\n
 Projekt1/Projekt1/dungeon.h
 Projekt1/Projekt1/physic.h
 Projekt1/Projekt1/player.h
