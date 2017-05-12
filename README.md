@@ -1,6 +1,6 @@
 # projekt01
 
-Działająca aplikacja:
+Działająca aplikacja (system Windows):
 https://drive.google.com/open?id=0B29hGzXR4hz0RWV0RE1oTS02Ykk
 
 Ciekawsze rzeczy z tego projektu to:
