@@ -1,5 +1,7 @@
 # projekt01
 
+Mini demo https://youtu.be/E6bdlNkaRNU
+
 Niestety projekt nie był prowadzony na Git'ie
 
 Ciekawsze rzeczy z tego projektu to:
