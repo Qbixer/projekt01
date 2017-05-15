@@ -1,6 +1,6 @@
 # projekt01
 
-Mini demo https://youtu.be/E6bdlNkaRNU
+Mini demo https://youtu.be/7zTf_nXUUgM
 
 Niestety projekt nie był prowadzony na Git'ie
 
